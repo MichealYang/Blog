@@ -1,2 +1,2 @@
 # Blog
-技术博客
+采用issuse写的blog
