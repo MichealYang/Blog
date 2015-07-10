@@ -7,7 +7,7 @@
 
 
 
-阅读请点击[这里](https://github.com/MichealYang/Blog/issues)
+所有博客文章均以 GitHub Issue 的形式发布,阅读请点击[这里](https://github.com/MichealYang/Blog/issues)
 
 MarkDown的使用请参考[这里](https://guides.github.com/features/mastering-markdown/)
 
