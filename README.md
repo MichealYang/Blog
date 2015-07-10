@@ -11,4 +11,4 @@ MarkDown的使用请参考[这里](https://guides.github.com/features/mastering-
 
 
 
-新浪微博[关注我]（http://www.weibo.com/516080678/home?wvr=5）
+新浪微博[关注我](http://www.weibo.com/516080678/home?wvr=5)
